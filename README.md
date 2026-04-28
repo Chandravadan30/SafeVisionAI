@@ -1,6 +1,6 @@
 # SafeVision AI: Real-Time Indoor Fall Detection (Edge AI System)
 
-## 🚀 Overview
+## Overview
 
 SafeVision AI is a real-time, privacy-preserving fall detection system designed for indoor environments such as homes, hospitals, and workplaces.
 
@@ -8,18 +8,18 @@ The system leverages computer vision and pose estimation to detect human falls d
 
 ---
 
-## 🎯 Key Highlights
+## Key Highlights
 
-- ⚡ Real-time inference (~20–30 FPS)
-- 🧠 Pose-based fall detection using skeletal keypoints
-- 🔒 Fully edge-based (no cloud processing)
-- 📸 Automatic snapshot capture on fall detection
-- 📊 Event logging + interactive dashboard
-- 🧩 Modular, production-ready architecture
+-  Real-time inference (~20–30 FPS)
+-  Pose-based fall detection using skeletal keypoints
+-  Fully edge-based (no cloud processing)
+-  Automatic snapshot capture on fall detection
+-  Event logging + interactive dashboard
+-  Modular, production-ready architecture
 
 ---
 
-## 🧠 System Architecture
+##  System Architecture
 
 ### End-to-End Pipeline
 
@@ -33,7 +33,7 @@ Logging → Dashboard
 
 ---
 
-## ⚙️ Core Components
+##  Core Components
 
 ### 1. Pose Estimation
 - Uses MediaPipe Pose (pre-trained model)
@@ -81,7 +81,7 @@ Displays:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Category        | Tools |
 |----------------|------|
@@ -93,7 +93,7 @@ Displays:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 
@@ -122,7 +122,7 @@ SafeVisionAI/
 
 ---
 
-## ⚡ Performance (Preliminary)
+##  Performance (Preliminary)
 
 - FPS: ~20–30
 - Detection latency: ≤ 2 seconds
@@ -131,7 +131,7 @@ SafeVisionAI/
 
 ---
 
-## ▶️ Setup & Run
+##  Setup & Run
 
 ### Installation
 
@@ -173,7 +173,7 @@ http://localhost:8501
 
 ---
 
-## 📸 Outputs
+##  Outputs
 
 * Live camera with skeleton overlay
 * Status: SAFE / FALL DETECTED
@@ -183,7 +183,7 @@ http://localhost:8501
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 * Single-person tracking
 * Sensitive to lighting conditions
@@ -191,7 +191,7 @@ http://localhost:8501
 
 ---
 
-## 🔮 Future Work
+##  Future Work
 
 * YOLOv8-based object detection
 * Behavior classification (Safe / Fall / Hazard)
@@ -201,14 +201,14 @@ http://localhost:8501
 
 ---
 
-## 📌 Notes
+##  Notes
 
 * Dataset, logs, and snapshots are excluded due to size
 * Designed for real-time camera input
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Venkata Sai Chandravadan Sobila**
 
