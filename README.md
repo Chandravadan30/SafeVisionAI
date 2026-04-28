@@ -1,4 +1,4 @@
-# SafeVision AI: Real-Time Indoor Fall Detection (Edge AI System)
+# SafeVision AI: Real-Time Indoor Fall Detection
 
 ## Overview
 
