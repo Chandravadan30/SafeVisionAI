@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Logs and outputs
+logs/
+snapshots/
+
+# Dataset (large files)
+dataset/
+
+# OS files
+.DS_Store
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Docker
+*.log
