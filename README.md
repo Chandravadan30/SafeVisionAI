@@ -1,4 +1,3 @@
-```markdown
 # SafeVision AI: Real-Time Indoor Fall Detection (Edge AI System)
 
 ## 🚀 Overview
