@@ -19,7 +19,7 @@ The system processes live video from a USB camera, detects human posture using s
 
 ### 2. Core System Implementation
 
-#### 📷 Camera Module (`camera.py`)
+#### Camera Module (`camera.py`)
 - Captures real-time video from USB camera
 - Resizes frames to 640×480
 
@@ -96,9 +96,9 @@ Camera → Pose Estimation → Angle Calculation → Fall Detection → Alert �
 
 ### 6. Outputs Generated
 
-- 📸 Snapshots saved in `snapshots/`
-- 📝 Logs stored in `logs/events.csv`
-- 📊 Dashboard visualization working
+-  Snapshots saved in `snapshots/`
+-  Logs stored in `logs/events.csv`
+-  Dashboard visualization working
 
 ---
 
@@ -181,7 +181,7 @@ Camera → Pose Estimation → Angle Calculation → Fall Detection → Alert �
 | CV / AI        | OpenCV, MediaPipe |
 | Data           | NumPy, Pandas |
 | Visualization  | Streamlit |
-| Deployment     | Docker (partial) |
+| Deployment     | Docker |
 
 ---
 
