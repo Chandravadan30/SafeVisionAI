@@ -201,11 +201,13 @@ SafeVisionAI/
 
 ```
 This how my Dashboard is looking and below is the image that person is Standing and his position is showing SAFE
+
 <img width="1024" height="600" alt="WhatsApp Image 2026-04-29 at 12 12 47" src="https://github.com/user-attachments/assets/c304ccbe-4d4e-494a-ae78-ce8326f41591" />
 
 Below is the image that a person is falling aand his position is UNSAFE
 
 <img width="1024" height="600" alt="WhatsApp Image 2026-04-29 at 12 12 32" src="https://github.com/user-attachments/assets/5a45df5f-dc09-4e6b-bcaa-0990ff1c99e8" />
+
 
 When the person is falling it will automatically take screenshots and it will be saved in a folder. I didnt upload that because i am still working on it 
 
