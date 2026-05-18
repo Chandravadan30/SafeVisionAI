@@ -102,7 +102,7 @@ Camera → Pose Estimation → Angle Calculation → Fall Detection → Alert �
 
 ---
 
-## Screenshots (To be added)
+## Screenshots 
 
 ### 1. SAFE State
 - Live camera with skeleton overlay
